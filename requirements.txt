@@ -1,0 +1,17 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+yfinance
+scikit-learn
+statsmodels
+pmdarima
+tensorflow
+keras
+scipy
+PyPortfolioOpt
+missingno
+joblib
+notebook
+jupyter
